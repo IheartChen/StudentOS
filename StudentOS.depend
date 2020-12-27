@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1577055597 source:c:\users\asus\desktop\studentos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1578399467 source:c:\users\asus\desktop\studentos\student.c
+	<stdio.h>
+	<stdlib.h>
+	"Student.h"
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<malloc.h>
+	<io.h>
+	<errno.h>
+	<math.h>
+
+1577055597 c:\users\asus\desktop\studentos\student.h
+
+1578399339 source:c:\users\asus\desktop\studentos\studenlib.c
+	<windows.h>
+	<stdio.h>
+
+1577055597 source:e:\桌面\studentos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1578399339 source:e:\桌面\studentos\studenlib.c
+	<windows.h>
+	<stdio.h>
+
+1609079720 source:e:\桌面\studentos\student.c
+	<stdio.h>
+	<stdlib.h>
+	"Student.h"
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<malloc.h>
+	<io.h>
+	<errno.h>
+	<math.h>
+
+1577055597 e:\桌面\studentos\student.h
+
